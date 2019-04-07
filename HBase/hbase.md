@@ -14,4 +14,4 @@
 
 为了提高数据写入速度，HBase 使用了一种叫作**LSM 树**的数据结构进行数据存储。LSM 树的全名是 Log Structed Merge Tree。翻译过来就是 Log 结构合并树。数据写入的时候以 Log 方式连续写入，然后异步对磁盘上的多个 LSM 树进行合并。
 
-![HBase LSM树](../doc/images/HBase LSM树.jpg)
+![HBase_LSM树](../doc/images/HBase_LSM树.jpg)

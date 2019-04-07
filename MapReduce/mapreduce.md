@@ -10,4 +10,4 @@
 
 ## MapReduce 数据合并与连接机制 —— Shuffle
 
-![MapReduce 数据合并与连接机制——Shuffle](../doc/images/MapReduce 数据合并与连接机制——Shuffle.png)
+![MapReduce数据合并与连接机制Shuffle](../doc/images/MapReduce数据合并与连接机制Shuffle.png)
