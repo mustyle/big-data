@@ -10,4 +10,4 @@
 
 ## NameNode 采用主从热备的方式提供高可用服务
 
-![NameNode 采用主从热备的方式提供高可用服务](../doc/images/NameNode 采用主从热备的方式提供高可用服务.png)
+![HDFS_NameNode采用主从热备的方式提供高可用服务](../doc/images/HDFS_NameNode采用主从热备的方式提供高可用服务.png)
